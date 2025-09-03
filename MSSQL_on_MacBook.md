@@ -143,3 +143,8 @@ SELECT * FROM dbo.People;
 6.	**Run the script
 	•	Execute the query (Cmd+Shift+E).
 	•	You should see 3 rows returned: Ada, Grace, and Linus.
+
+
+
+
+© 2025 Nilma Abbas. All rights reserved.
